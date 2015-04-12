@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/died1.cs">
+    <Files>
+      <File FileName="Assets/Scripts/died1.cs" Line="42" Column="21" />
+      <File FileName="Assets/Scripts/startgame.cs" Line="18" Column="31" />
+      <File FileName="Assets/Scripts/autostartrecording.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/Pickup.cs" Line="33" Column="42" />
+      <File FileName="Assets/Scripts/restart.cs" Line="32" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
